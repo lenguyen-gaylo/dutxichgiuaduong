@@ -11,3 +11,5 @@ cho thuê xe phượt bụi thoải mái đê!!
 29/9/2026 Danh Tấn Lộc hoàn thành phân tích cửa hàng
 
 2/10/2026 Lê Nguyễn tạo pj mới tên dutxichgiuaduong
+
+3/10/2026 Nhóm hoàn thành bảng quản lý phân tích excel, chia nhiệm vụ phân tích theo dữ liệu từ Lộc, các thành viên hoàn thành việc phân tích
