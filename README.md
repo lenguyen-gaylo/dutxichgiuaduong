@@ -9,3 +9,5 @@ cho thuê xe phượt bụi thoải mái đê!!
 28/9/2026 Lê Nguyễn, Thành Long làm xong code java để tài Cửa hàng cho thuê xe phượt bụi
 
 29/9/2026 Danh Tấn Lộc hoàn thành phân tích cửa hàng
+
+2/10/2026 Lê Nguyễn tạo pj mới tên đứt xích giữa đường
